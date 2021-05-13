@@ -14,7 +14,7 @@ If you want to use this code on your own dataset, please arrange the dataset in 
 
 ## Models
 ### Pre-trained Models
-In our experiments, we used two pre-trained models on ImageNet, i.e., VGG16 and ResNet101. Please download these two models from:
+In our experiments, we used pre-trained models on ImageNet.
 * **ResNet50:** Download the model (the one for BGR) from [link](https://github.com/ruotianluo/pytorch-resnet)
 
 ### Be careful
